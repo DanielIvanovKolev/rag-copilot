@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What does the PM bit in RTC_TR do?",
+    "answer": "AM/PM notation: 0 = AM or 24-hour format, 1 = PM",
+    "page": 812
+  },
+  {
+    "question": "Which bit in USART_SR indicates an overrun error?",
+    "answer": "ORE",
+    "page": 1004
+  }
+]
